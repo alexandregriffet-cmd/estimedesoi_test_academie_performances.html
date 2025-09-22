@@ -1,0 +1,162 @@
+[
+  {
+    "dim": "Vision de soi",
+    "text": "J’ai une idée claire de qui je suis et de ce que je veux.",
+    "reverse": false
+  },
+  {
+    "dim": "Vision de soi",
+    "text": "Je connais mes forces et mes limites.",
+    "reverse": false
+  },
+  {
+    "dim": "Vision de soi",
+    "text": "Je me sens aligné(e) avec mes valeurs au quotidien.",
+    "reverse": false
+  },
+  {
+    "dim": "Vision de soi",
+    "text": "Je sais ce qui me motive vraiment.",
+    "reverse": false
+  },
+  {
+    "dim": "Vision de soi",
+    "text": "Je change souvent d’avis sur qui je suis. (instabilité)",
+    "reverse": true
+  },
+  {
+    "dim": "Vision de soi",
+    "text": "Je me compare aux autres au point de douter de mon identité.",
+    "reverse": true
+  },
+  {
+    "dim": "Vision de soi",
+    "text": "Je me sens perdu(e) sur mon avenir.",
+    "reverse": true
+  },
+  {
+    "dim": "Vision de soi",
+    "text": "J’ai du mal à définir ce qui est important pour moi.",
+    "reverse": true
+  },
+  {
+    "dim": "Acceptation de soi",
+    "text": "Je reconnais mes erreurs sans me dévaloriser.",
+    "reverse": false
+  },
+  {
+    "dim": "Acceptation de soi",
+    "text": "Je me pardonne quand je fais un faux pas.",
+    "reverse": false
+  },
+  {
+    "dim": "Acceptation de soi",
+    "text": "J’accepte que la perfection n’existe pas.",
+    "reverse": false
+  },
+  {
+    "dim": "Acceptation de soi",
+    "text": "Je transforme mes échecs en apprentissages.",
+    "reverse": false
+  },
+  {
+    "dim": "Acceptation de soi",
+    "text": "Je me critique durement au moindre défaut.",
+    "reverse": true
+  },
+  {
+    "dim": "Acceptation de soi",
+    "text": "Je ressasse longtemps mes erreurs passées.",
+    "reverse": true
+  },
+  {
+    "dim": "Acceptation de soi",
+    "text": "Je me sens souvent nul(le) quand je rate.",
+    "reverse": true
+  },
+  {
+    "dim": "Acceptation de soi",
+    "text": "Je me sens obligé(e) d’être parfait(e) pour être digne d’estime.",
+    "reverse": true
+  },
+  {
+    "dim": "Amour de soi",
+    "text": "Je suis fier(ère) de la personne que je deviens.",
+    "reverse": false
+  },
+  {
+    "dim": "Amour de soi",
+    "text": "Je me parle avec gentillesse quand c’est difficile.",
+    "reverse": false
+  },
+  {
+    "dim": "Amour de soi",
+    "text": "Je prends soin de moi (sommeil, alimentation, pauses).",
+    "reverse": false
+  },
+  {
+    "dim": "Amour de soi",
+    "text": "Je célèbre mes petites réussites.",
+    "reverse": false
+  },
+  {
+    "dim": "Amour de soi",
+    "text": "Je me dévalorise facilement.",
+    "reverse": true
+  },
+  {
+    "dim": "Amour de soi",
+    "text": "Je pense ne pas mériter de recevoir de l’affection.",
+    "reverse": true
+  },
+  {
+    "dim": "Amour de soi",
+    "text": "Je m’interdis de demander de l’aide.",
+    "reverse": true
+  },
+  {
+    "dim": "Amour de soi",
+    "text": "Je fais passer tout le monde avant moi, tout le temps.",
+    "reverse": true
+  },
+  {
+    "dim": "Confiance en soi",
+    "text": "Je me sens capable de relever des défis importants.",
+    "reverse": false
+  },
+  {
+    "dim": "Confiance en soi",
+    "text": "Je passe à l’action même quand j’ai un doute.",
+    "reverse": false
+  },
+  {
+    "dim": "Confiance en soi",
+    "text": "Je sais m’affirmer sans écraser les autres.",
+    "reverse": false
+  },
+  {
+    "dim": "Confiance en soi",
+    "text": "Je reste concentré(e) sous pression.",
+    "reverse": false
+  },
+  {
+    "dim": "Confiance en soi",
+    "text": "Je renonce souvent par peur d’échouer.",
+    "reverse": true
+  },
+  {
+    "dim": "Confiance en soi",
+    "text": "Les critiques me paralysent facilement.",
+    "reverse": true
+  },
+  {
+    "dim": "Confiance en soi",
+    "text": "Face au nouveau, je doute trop de mes capacités.",
+    "reverse": true
+  },
+  {
+    "dim": "Confiance en soi",
+    "text": "Je n’ose pas exprimer mes besoins.",
+    "reverse": true
+  }
+]
